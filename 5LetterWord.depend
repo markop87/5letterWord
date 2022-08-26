@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1661276860 source:d:\marek\cpp\5letterword\main.cpp
+	<iostream>
+	<random>
+	<time.h>
+	<windows.h>
+	<fstream>
+	<algorithm>
+
